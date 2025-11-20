@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vishva Kiran</h1>
 <h3 align="center"> A passionate Full stack developer </h3>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ShivaKrishna-07/ShivaKrishna-07/main/assest/boy%20with%20laptop.png" width="200" />
-</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mulukanuri-vishva/">
@@ -33,7 +30,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/>
-
+<img src="https://yt3.ggpht.com/a/AGF-l7_l2AEKqbMFzMftWX9NW6-1vmdlpIVa3VzL=s900-c-k-c0xffffffff-no-rj-mo" width="50"/>
 </p>
 
 ---
